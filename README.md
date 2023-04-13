@@ -2,7 +2,9 @@
 
 https://github.com/PabloFP64/Barcos.git
 
-** PREGUNTAS TEÓRICAS **
+# **PREGUNTAS TEÓRICAS**
+
+## Ejercicio 1
 
 1. b) La identidad, Los atributos que representan su estado y los métodos que representan su comportamiento definen a un objeto.
 
