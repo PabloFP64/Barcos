@@ -6,16 +6,16 @@ https://github.com/PabloFP64/Barcos.git
 
 ## Ejercicio 1
 
-- 1. b) La identidad, Los atributos que representan su estado y los métodos que representan su
+- 1 . b) La identidad, Los atributos que representan su estado y los métodos que representan su
 comportamiento
 
-- 2. b) Polimorfismo
+- 2 . b) Polimorfismo
 
-- 3. a) Primero el constructor de C, luego constructor de B y, finalmente, el constructor de A
+- 3 . a) Primero el constructor de C, luego constructor de B y, finalmente, el constructor de A
 
-- 4. a) Debo utilizar la palabra reservada self como prefijo
+- 4 . a) Debo utilizar la palabra reservada self como prefijo
 
-- 5. b) Se favorece la semántica y la reutilización de código en detrimento del rendimiento.
+- 5 . b) Se favorece la semántica y la reutilización de código en detrimento del rendimiento.
 
 ## Ejercicio 2
 
