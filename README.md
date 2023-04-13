@@ -29,3 +29,15 @@ La programación orientada a objetos (POO) es un paradigma de programación que 
 
 - Abstracción: consiste en modelar la realidad a través de objetos que representan entidades o conceptos abstractos, simplificando la complejidad del mundo real.
 
+## Ejercicio 3
+
+La visibilidad de una variable o un método se refiere al alcance que tiene dentro de una clase y en qué medida otros objetos pueden acceder a ellos. En la programación orientada a objetos existen tres tipos de visibilidad:
+
+- Pública (public): los atributos y métodos marcados como públicos son accesibles desde cualquier parte del programa. Se utiliza para los atributos y métodos que necesitan ser accedidos desde cualquier lugar, sin restricciones.
+
+- Privada (private): los atributos y métodos marcados como privados solo son accesibles desde dentro de la misma clase. Se utiliza para los atributos y métodos que deben ser accesibles solo desde dentro de la misma clase, y no desde otras partes del programa.
+
+- Protegida (protected): los atributos y métodos marcados como protegidos son accesibles desde dentro de la misma clase y desde las clases que heredan de ella. Se utiliza para los atributos y métodos que deben ser accesibles desde las clases hijas pero no desde otras partes del programa.
+
+
+
